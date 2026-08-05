@@ -1,6 +1,6 @@
 spring:
  application:
-    name:Server-Config
+  name:config-server01
 eureka:
   client:
     service-url:
